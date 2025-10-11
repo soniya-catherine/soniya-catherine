@@ -2,7 +2,7 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Cybersecurity Projects</b>
+<!--- <b>Cybersecurity Projects</b>-->
   - [Azure SOC / Honeynet with Real Traffic](https://github.com/soniya-catherine/Live-SOC-Azure)
   - [Nmap-Based Vulnerability Discovery in a Controlled Lab Environment](https://github.com/soniya-catherine/Nmap-Vulnerability-Scan)
 
