@@ -4,8 +4,9 @@
 
 <!--- <b>Cybersecurity Projects</b>-->
   - [Azure SOC / Honeynet with Real Traffic](https://github.com/soniya-catherine/Live-SOC-Azure)
-  - [Nmap-Based Vulnerability Discovery in a Controlled Lab Environment](https://github.com/soniya-catherine/Nmap-Vulnerability-Scan)
   - [A Practical Lab on Custom RAT Creation, Analysis, and Detection](https://github.com/soniya-catherine/Custom-RAT-Analysis)
+  - [Nmap-Based Vulnerability Discovery in a Controlled Lab Environment](https://github.com/soniya-catherine/Nmap-Vulnerability-Scan)
+
 
 
 <!--
